@@ -47,7 +47,7 @@ function Header() {
   return (
     <>
       <div className='bg-slate-800  p-6 gap-14 px-60 items-center text-center'>
-        <h1 className='text-center text-4xl font-extrabold font-mono bg-slate-800 text-white'
+        <h1 className='text-center lg:text-4xl font-extrabold font-mono bg-slate-800 text-white'
         >Meme Generator</h1>
         <div
           className='bg-slate-800 flex lg:flex-row justify-evenly p-6 lg:gap-14  sm:flex-col sm:gap-2 '>
